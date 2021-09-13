@@ -10,4 +10,5 @@ public class LinkedListMain {
             case 1:
                 Operations.addDataAtStart();
         }
-    }}
+    }
+}
